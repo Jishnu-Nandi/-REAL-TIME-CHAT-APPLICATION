@@ -51,3 +51,4 @@ This real-time chat application demonstrates the use of React.js for building in
 
 **OUTPUT**
 
+![Image](https://github.com/user-attachments/assets/9ef7e438-d3f4-4bc3-95df-f31d5ab8df4e)
